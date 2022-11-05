@@ -1,0 +1,8 @@
+C:\Users\josea\source\repos\HACKATHON2022\Problema 3\Problema_3\bin\Debug\Problema_3.exe.config
+C:\Users\josea\source\repos\HACKATHON2022\Problema 3\Problema_3\bin\Debug\Problema_3.exe
+C:\Users\josea\source\repos\HACKATHON2022\Problema 3\Problema_3\bin\Debug\Problema_3.pdb
+C:\Users\josea\source\repos\HACKATHON2022\Problema 3\Problema_3\obj\Debug\Problema_3.csproj.AssemblyReference.cache
+C:\Users\josea\source\repos\HACKATHON2022\Problema 3\Problema_3\obj\Debug\Problema_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\josea\source\repos\HACKATHON2022\Problema 3\Problema_3\obj\Debug\Problema_3.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\HACKATHON2022\Problema 3\Problema_3\obj\Debug\Problema_3.exe
+C:\Users\josea\source\repos\HACKATHON2022\Problema 3\Problema_3\obj\Debug\Problema_3.pdb
